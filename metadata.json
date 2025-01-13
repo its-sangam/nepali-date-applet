@@ -1,7 +1,7 @@
 {
     "name": "Nepali Date Applet",
     "description": "Displays the current date in the Nepali calendar (BS) with weekday.",
-    "uuid": "nepali-date-applet",
+    "uuid": "nepali-date-applet@sangam-poudel",
     "version": "1",
     "author": "Sangam Poudel",
     "license": "GPL-3.0",
